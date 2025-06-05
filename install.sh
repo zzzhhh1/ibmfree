@@ -284,9 +284,7 @@ run_deployment() {
   print_header "部署完成与支持信息" "${COLOR_GREEN}" # Changed header to Green
   echo -e "${COLOR_GREEN}  IBM-sb-ws 节点部署流程已执行完毕!${COLOR_RESET}"
   echo
-  echo -e "${COLOR_GREEN}  感谢使用! 如有问题或建议，请联系:${COLOR_RESET}"
-  echo -e "${COLOR_GREEN}    Joey's Feedback TG: ${COLOR_WHITE_BOLD}https://t.me/+ft-zI76oovgwNmRh${COLOR_RESET}"
-  echo -e "${COLOR_GREEN}    老王's TG 群组:    ${COLOR_WHITE_BOLD}https://t.me/vps888${COLOR_RESET}"
+  echo -e "${COLOR_GREEN}  感谢使用! ${COLOR_RESET}"
   print_separator
 }
 
