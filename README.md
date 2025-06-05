@@ -1,5 +1,5 @@
 ## 感谢老王大半夜提供编译支持
-脚本原作者**[byJoey](https://github.com/byJoey)** 修改基于 **[eooce 老王](https://github.com/eooce)** 
+脚本原作者[byJoey](https://github.com/byJoey) 修改基于 **[eooce 老王](https://github.com/eooce)** 
 ### 注册地址 https://linuxone.cloud.marist.edu/
 ## 运行说明
 
